@@ -405,24 +405,6 @@ body{
     transition: all 1.5s ease;
 }
 
-.form-section{
-    text-align: center;
-    height: 90vh;
-
-}
-
-.box{
-    margin: auto;
-    width: 800px;
-    height: 70vh;
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
-    border: 0.3px solid rgb(82, 82, 82);
-    box-shadow: 3px 3px 5px 6px var(--borderColor);
-    background-color: var(--mainColor);
-}
-
 
 button,
 .talk,
